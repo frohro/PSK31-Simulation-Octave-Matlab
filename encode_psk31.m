@@ -27,5 +27,5 @@ end
 
 t = 0:1/Fs:length(baseband)/Fs-1/Fs;
 
-v = real(exp(j*2*pi*fc*t+phase).*baseband);
+v = real(exp(j*(2*pi*fc*t+phase)).*baseband);
 
