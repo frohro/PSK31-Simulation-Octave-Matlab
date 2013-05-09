@@ -1,6 +1,11 @@
 This project is to investigate PSK31 with octave/MATLAB.
-It is available under the GPLv3 license available from the Free
+It is available under the GPL license available from the Free
 Software foundation here.
 http://gplv3.fsf.org/
+
+make_bits.m and alpha.txt which do the varicode encoding are available 
+from MATHWORKs under BSD license here:
+
+http://www.mathworks.com/matlabcentral/fileexchange/2839-psk31-model-with-symbol-timing-and-carrier-recovery/all_files
 
 Rob Frohne, KL7NA
